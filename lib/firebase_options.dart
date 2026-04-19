@@ -64,7 +64,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '563705822511',
     projectId: 'official-agreement',
     storageBucket: 'official-agreement.firebasestorage.app',
-    iosClientId: '563705822511-e2gphrp8msnm2d90l9msstg8kh1kij3c.apps.googleusercontent.com',
+    iosClientId:
+        '563705822511-e2gphrp8msnm2d90l9msstg8kh1kij3c.apps.googleusercontent.com',
     iosBundleId: 'com.example.officialagreement',
   );
 
@@ -74,7 +75,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '563705822511',
     projectId: 'official-agreement',
     storageBucket: 'official-agreement.firebasestorage.app',
-    iosClientId: '563705822511-e2gphrp8msnm2d90l9msstg8kh1kij3c.apps.googleusercontent.com',
+    iosClientId:
+        '563705822511-e2gphrp8msnm2d90l9msstg8kh1kij3c.apps.googleusercontent.com',
     iosBundleId: 'com.example.officialagreement',
   );
 
